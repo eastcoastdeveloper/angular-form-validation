@@ -11,7 +11,7 @@ small {
 }
 form {
   max-width: 500px;
-  margin: 0 auto;
+  margin: 20px auto 0 auto;
   label {
     font: normal 13px sans-serif;
     display: block;
@@ -124,7 +124,6 @@ form {
 
 @media screen and (max-width: 550px) {
   form {
-    margin: 20px;
     .email-first-last {
       display: block;
       margin: 0;
