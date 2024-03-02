@@ -44,3 +44,9 @@ header {
     color: #d9a74a;
   }
 }
+
+@media screen and (max-width: 600px){
+  #demo {
+    margin: 0 20px; 
+  }
+}
